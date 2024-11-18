@@ -1,0 +1,6 @@
+C:\Шарага\мироша\zd4_Lezhen_Andrey_Igorevich\bin\Debug\zd4_Lezhen_Andrey_Igorevich.dll
+C:\Шарага\мироша\zd4_Lezhen_Andrey_Igorevich\bin\Debug\zd4_Lezhen_Andrey_Igorevich.pdb
+C:\Шарага\мироша\zd4_Lezhen_Andrey_Igorevich\obj\Debug\zd4_Lezhen_Andrey_Igorevich.csproj.AssemblyReference.cache
+C:\Шарага\мироша\zd4_Lezhen_Andrey_Igorevich\obj\Debug\zd4_Lezhen_Andrey_Igorevich.csproj.CoreCompileInputs.cache
+C:\Шарага\мироша\zd4_Lezhen_Andrey_Igorevich\obj\Debug\zd4_Lezhen_Andrey_Igorevich.dll
+C:\Шарага\мироша\zd4_Lezhen_Andrey_Igorevich\obj\Debug\zd4_Lezhen_Andrey_Igorevich.pdb
